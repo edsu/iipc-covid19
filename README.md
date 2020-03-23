@@ -4,6 +4,6 @@ enhance web archiving appraisal activities.
 
 You can start them up live on MyBinder by clicking this link:
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/edsu/notebooks)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/edsu/iipc-covid19)
 
 [Novel Cornavirus COVID-19]: https://archive-it.org/collections/13529/
