@@ -3,3 +3,4 @@ pandas
 jupyter
 wayback
 requests
+requests_html
